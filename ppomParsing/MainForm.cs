@@ -138,7 +138,8 @@ namespace ppomParsing
 
             if (strFindOK != "")
             {
-                fnMailSend(strFindOK);
+                Telegram_Bot.Telegram_Send(strFindOK);
+                //fnMailSend(strFindOK);
             }
         }
 

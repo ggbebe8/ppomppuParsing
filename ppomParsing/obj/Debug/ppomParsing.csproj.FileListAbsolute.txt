@@ -1,0 +1,15 @@
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\bin\Debug\ppomParsing.exe
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\bin\Debug\ppomParsing.pdb
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\obj\Debug\ppomParsing.csprojAssemblyReference.cache
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\obj\Debug\ppomParsing.MainForm.resources
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\obj\Debug\ppomParsing.Properties.Resources.resources
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\obj\Debug\ppomParsing.csproj.GenerateResource.cache
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\obj\Debug\ppomParsing.csproj.CoreCompileInputs.cache
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\obj\Debug\ppomParsing.exe
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\obj\Debug\ppomParsing.pdb
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\bin\Debug\ppomParsing.exe.config
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\bin\Debug\Newtonsoft.Json.dll
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\bin\Debug\Telegram.Bot.dll
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\bin\Debug\Newtonsoft.Json.xml
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\bin\Debug\Telegram.Bot.xml
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\obj\Debug\ppomParsing.csproj.CopyComplete
