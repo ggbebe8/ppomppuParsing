@@ -1,0 +1,10 @@
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing_디버깅\ppomParsing.exe.config
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing_디버깅\ppomParsing.exe
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing_디버깅\ppomParsing.pdb
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\obj\Release\ppomParsing.MainForm.resources
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\obj\Release\ppomParsing.Properties.Resources.resources
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\obj\Release\ppomParsing.csproj.GenerateResource.cache
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\obj\Release\ppomParsing.csproj.CoreCompileInputs.cache
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\obj\Release\ppomParsing.csproj.CopyComplete
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\obj\Release\ppomParsing.exe
+D:\PemtoSRC\개인\ppomppuParsing\ppomParsing\obj\Release\ppomParsing.pdb

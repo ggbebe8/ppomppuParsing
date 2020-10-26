@@ -38,6 +38,7 @@ namespace ppomParsing
             mURL = "http://www.ppomppu.co.kr/zboard/zboard.php?id=ppomppu&page=1&divpage=53";
             mStartStr = "<font class=list_title>";
             mLastStr = "</font>";
+            Log.Info("Start");
         }
 
         private void MainForm_Load(object sender, EventArgs e)
@@ -99,7 +100,7 @@ namespace ppomParsing
             }
             catch (Exception e)
             {
-                MessageBox.Show(e.ToString(), "오 류", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                Log.Info(string.Format("fnFileWrite() : {0}", e.ToString()));
                 return;
             }
         }
@@ -112,7 +113,7 @@ namespace ppomParsing
             mGetInfoList = Paser.GetInfo(mURL, mStartStr, mLastStr);
             if (mGetInfoList.Count < 1)
             {
-                MessageBox.Show("정보를 파싱할 수 없음", "오류", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                Log.Info(string.Format("fnAlarm() : 파싱된 정보가 없음"));
             }
 
             foreach (string wantToFind in lisbList.Items)
